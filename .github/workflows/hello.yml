@@ -1,0 +1,4 @@
+name : Primo GitHub action
+on :
+  push:
+  
